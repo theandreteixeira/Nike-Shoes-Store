@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:nike_shoes_store/page_indicator_painter.dart';
-
-import 'nike_shoes.dart';
+import '../models/nike_shoes.dart';
+import 'page_indicator_painter.dart';
 import 'nike_shopping_cart.dart';
 
 class NikeShoesDetails extends StatefulWidget {

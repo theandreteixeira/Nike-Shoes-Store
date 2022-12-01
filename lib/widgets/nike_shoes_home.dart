@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'nike_shoes.dart';
+import '../models/nike_shoes.dart';
 import 'nike_shoes_details.dart';
 
 class NikeShoesHome extends StatelessWidget {

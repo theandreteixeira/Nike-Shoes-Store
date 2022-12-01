@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'nike_shoes.dart';
+import '../models/nike_shoes.dart';
 
 const _buttonSizeWidth = 200.0;
 const _buttonSizeHeight = 60.0;

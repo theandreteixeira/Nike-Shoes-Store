@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'nike_shoes_home.dart';
+import 'widgets/nike_shoes_home.dart';
 
 void main() {
   runApp(const MyApp());
